@@ -20,6 +20,6 @@ II> This game has four level - 1. Easy
                                                       
          1. Normal Weapon : For use it you have to click left button of mouse. For each kill you will get 10 points.
          2. Heavy Weapon : For use it you have to click right button of mouse. For each kill you will get 10 points. 
-            And for use that weapon 20 points will be deducted.
+            And for use that weapon you need atleast 20 points & per shoot 20 points will be deducted.
          3. Ultra Weapon : For use it you have to press Space Bar. For use that your 50 points will be deducted. You 
             can use that weapon when you have minimum 50 points.
