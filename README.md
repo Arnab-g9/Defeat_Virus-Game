@@ -1,7 +1,10 @@
 # Defeat_Virus-Game
 
 link : https://arnab-g9.github.io/Defeat_Virus-Game/
+
+
 rules :
+
 I> Enemies will come from anywhere and you have to defeat those enemies.
 
 II> This game has four level - 1. Easy 
