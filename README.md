@@ -1,6 +1,6 @@
 # Defeat_Virus-Game
 
-link : https://arnab-g9.github.io/Defeat_Virus-Game/
+link : https://arnab-g9.github.io/Shoot2Kill/
 
 
 rules :
