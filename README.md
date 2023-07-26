@@ -1,4 +1,4 @@
-# Defeat_Virus-Game
+# Shoot2Kill - Game
 
 link : https://arnab-g9.github.io/Shoot2Kill/
 
